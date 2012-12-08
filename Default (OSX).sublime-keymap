@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+t"], "command": "new_file" },
+	{ "keys": ["shift+super+d"], "command": "find_all_under" }
+]

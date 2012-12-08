@@ -1,0 +1,99 @@
+-(+ 1 2)
+-1 * 2
+-3 **$
+-3 **4
+-2 ** 2
+-2 ** 4
+-2 ** 5
+-(map + 1 2)
+-(map + (1 2))
+-allwords = Freq({})
+-def Freq(tokens):\n	return nltk.probability.FreqDist(tokens)
+-import nltk
+-import nltk.data
+-trainset = file('data/bloom1.txt')
+-trainst.sent()
+-trainset.sent()
+-python
+-python2
+-version()
+-import numpy
+-import nltk
+-import nltk.data
+-trainset
+-from nltk.tokenize import sent_tokenize
+-sent_tokenize(trainset)
+-sent_tokenize(paragraphs)
+-sent_tokenize(paragraphs[1])
+-sent_tokenize(paragraphs[5])
+-sent_tokenize(paragraphs[6])
+-tokenizer.tokenize(paragraphs[6])
+-words
+-syn.name()
+-syn.name
+-syn.definition
+-syn.hypernyms
+-syn.hypernyms()
+-syn.hyp0nyms()
+-syn.hyponyms()
+-syn.hypernym_path()
+-syn.hypernym_paths()
+-syn.lemmas
+-nbest
+-tnbest
+-allwords
+-paragraphs
+-sentences
+-s
+-sentences
+-nsentences
+-from BeautifulSoup import BeautifulSoup
+-from BeautifulSoup import BeautifulSoup
+-unicode(BeautifulSoup('\\xe2\\x80\\x99',convertEntities='html'))
+-unicode(BeautifulSoup('\\xe2\\x80\\x99',convertEntities='text'))
+-unicode(BeautifulSoup('\\xe2\\x80\\x99',convertEntities='ascii'))
+-unicode(BeautifulSoup('\\u2019',convertEntities='ascii'))
+-nsentences
+-len(sentences)
+-len(nsentences)
+-import nltk.corpus.abc as abc
+-abc.words()
+-abc.sents()
+-find_numerics(nsentences)
+-find_numerics(sentences)
+-codecs.encode(sentences)
+-find_numerics(sentences)
+-len(abc)
+-len(abc.words())
+-join_sentences(abc)
+-a = join_sentences(abc)
+-a
+-print a
+-for sentence in abc.sents():
+-	joinsent=""
+-	for word in sentence:
+-		joinsent=''.join([joinsent,word])
+-	joined_sents.append(joinsent)
+-a = join_sentences(abc)
+-a
+-a = join_sentences(corpus)
+-a = join_sentences(abc)
+-print a[4]
+-a = join_sentences(abc)
+-print a[4]
+-find_numerics(a)
+-b = find_numerics(a)
+-b[4]
+-b
+-b.read()
+-for row in b: print row
+-find_numerics(sentences)
+-b = find_numerics(sentences)
+-b
+-b = find_numerics(sentences)
+-b
+-b = find_numerics(abc)
+-b = find_numerics_corpus(abc)
+-len(b)
+-b
+-from factual import Factual

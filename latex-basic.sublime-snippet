@@ -1,0 +1,30 @@
+<snippet>
+	<content><![CDATA[
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[12pt]{article}
+\usepackage{geometry}                
+\geometry{letterpaper}               
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{amssymb}
+\usepackage{listings}
+\lstset{language=Octave,
+  basicstyle=\footnotesize,tabsize=3,
+commentstyle=\color{blue},
+morecomment=[l]{\#}}
+
+
+\begin{document}
+
+$1
+
+\end{document}
+
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ehlatex</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text</scope>
+</snippet>

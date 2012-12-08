@@ -1,0 +1,11 @@
+{
+	"installed_packages":
+	[
+		"Enhanced Clojure",
+		"LaTeXTools",
+		"LoadFileToRepl",
+		"Package Control",
+		"Shell Turtlestein",
+		"SublimeREPL"
+	]
+}
